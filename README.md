@@ -6,6 +6,7 @@ Connect with me via [LinkedIn](https://www.linkedin.com/in/bassashley/)
 Or visit [Ashleybass.me](https://ashleybass.me/) 
 ### ⚡ Fun fact:
 I'm from Detroit, MI
+
 1 of 8 siblings 
 ###  💬 Ask me about: 
 All things Education 
