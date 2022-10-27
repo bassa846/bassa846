@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I'm the Partnerships Manager on the [GitHub Education](https://education.github.com/) team, where I focus on Global Campus and Partner Engagment.
+
 ### 😄 Pronouns:
 She/Her/Hers
 ### 📫 How to reach me:
