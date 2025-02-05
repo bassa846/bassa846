@@ -1,11 +1,10 @@
 ### Hi there 👋 
-I'm the Partnerships Manager on the [GitHub Education](https://education.github.com/) team, where I focus on Global Campus and Partner Engagment.
+Prior Program Manager,Partnerships on the [GitHub Education](https://education.github.com/) team, where I focused on Global Campus and Partner Engagment.
 
 ### 😄 Pronouns:
 She/Her/Hers
 ### 📫 How to reach me:
 Connect with me via [LinkedIn](https://www.linkedin.com/in/bassashley/) 
-Or visit [Ashleybass.me](https://ashleybass.me/) 
 
 ### ⚡ Fun fact:
 I'm from Detroit, MI
@@ -19,5 +18,5 @@ I'm from Detroit, MI
 - [Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/)
 
 ###  💬 Ask me about: 
-All things Education & Partnerships 
+All things Program Management, Operations & Partnerships 
 <!--
